@@ -1,6 +1,8 @@
 ## Naddame website
 
 ### Presentation
+---
+
 Ingénieur, Architecte technique et infrastructures, concepteur et développeur des systèmes d'informations, DevOps.
 
 Java/J2ee, Spring (data, MVC, security, Oauth2, ...), REST, JPA, Hibernate, Python, GWT, NodeJs, JavaScript, Reactjs, Angularjs 2, Html, css, JQuery, Swing, programmation événementielle, Multithreading , ActiveMQ, RabbitMQ, web services.
@@ -21,6 +23,7 @@ Find more informations about me  in [Linkedid](https://fr.linkedin.com/in/jamelh
 
 
 ### Formation
+---
 
 2011                       	Master 2 TRIED, CNAM, Telecom SudParis, UVSQ
 
@@ -30,6 +33,7 @@ Find more informations about me  in [Linkedid](https://fr.linkedin.com/in/jamelh
 
 
 ### COMPÉTENCES TECHNIQUES
+---
 
 **Back-End**      Java j2ee, spring (boot, mvc, security …), JSP/Servlet, Hibernate, JPA, Python, Node JS,  Guava, 
                   MicroServices, API REST, Thrift, ActiveMQ, RabbitMQ, Ehcache, Redis  
@@ -53,6 +57,7 @@ Find more informations about me  in [Linkedid](https://fr.linkedin.com/in/jamelh
 
 
 ### EXPERIENCE PROFESSIONNELLE
+---
 
 ## Kujjuk Group (Product-Live)                                                   Depuis Juillet. 2014
 
