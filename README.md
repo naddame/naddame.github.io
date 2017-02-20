@@ -1,8 +1,24 @@
-## Welcome to GitHub Pages
+## Naddame website
 
-You can use the [editor on GitHub](https://github.com/naddame/naddame.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Presentation
+Ingénieur, Architecte technique et infrastructures, concepteur et développeur des systèmes d'informations, DevOps.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Java/J2ee, Spring (data, MVC, security, Oauth2, ...), REST, JPA, Hibernate, Python, GWT, NodeJs, JavaScript, Reactjs, Angularjs 2, Html, css, JQuery, Swing, programmation événementielle, Multithreading , ActiveMQ, RabbitMQ, web services.
+
+Docker, Cloud, Windows Azure, PaaS, IaaS, Esb, Virtualisation, Amazon aws, Amazon Ec2, 
+
+Eclipse, Spring Tool Suite (STS), Linux/Unix, Windows.
+
+Git, Bower, Maven, Source Tree.
+
+SQL (MySQL, MariaDB, SQL Server, Oracle, PostgreSQL), NoSQL (MongoDB, DocumentDB, ...), graph (Neo4j...)
+
+Jenkins, Artifactory, Logstash, ElasticSearch, Kibana
+
+Spring roo, jhipster, thrift
+
+Find more informations about me  in [Linkedid](https://fr.linkedin.com/in/jamelhamas) or in [Stackoverflow](http://stackoverflow.com/users/1557828/naddame).
+
 
 ### Markdown
 
