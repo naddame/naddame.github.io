@@ -32,16 +32,25 @@ Find more informations about me  in [Linkedid](https://fr.linkedin.com/in/jamelh
 ### COMPÉTENCES TECHNIQUES
 
 **Back-End**      Java j2ee, spring (boot, mvc, security …), JSP/Servlet, Hibernate, JPA, Python, Node JS,  Guava, 
-                  MicroServices, API REST, Thrift, ActiveMQ, RabbitMQ, Ehcache, Redis
-**Front-End**     JavaScript, GWT, Angular 2, ReactJs, Redux, JQuery, HTML5, CSS, Bootstrap, SocketIO
-**Security**      Spring security, Oauth2, JWT, sso
-**Cloud**         Azure (WebSites, VM, Service Bus ...), AWS (Ec2, S3, RDS ...), PaaS, IaaS, Virtualisation
+                  MicroServices, API REST, Thrift, ActiveMQ, RabbitMQ, Ehcache, Redis  
+
+**Front-End**     JavaScript, GWT, Angular 2, ReactJs, Redux, JQuery, HTML5, CSS, Bootstrap, SocketIO  
+
+**Security**      Spring security, Oauth2, JWT, sso  
+
+**Cloud**         Azure (WebSites, VM, Service Bus ...), AWS (Ec2, S3, RDS ...), PaaS, IaaS, Virtualisation  
+
 **Agile**         Scrum, kanban, Jira, sprint, backlog, stant-up meeting, Trello
-**Sys admin**     Linux, Docker, shell, powershell, ssh, admin (MySQL, MongoDB, apache, Tomcat ...),
+
+**Sys admin**     Linux, Docker, shell, powershell, ssh, admin (MySQL, MongoDB, apache, Tomcat ...),  
                   Windows server, ftp/sftp, Nginx, Tomcat, Jetty, apache, IIS, Jenkins, Artifactory, Sonar,
+
 **Versionning**   Git, Github, Bitbucket, Source Tree, Ant, Maven, Gradle
+
 **Data Stores**   MySQL, SQL Server, Oracle, PostgreSQL, NoSQL, MongoDB, Redis, Neo4j, Elasticsearch
+
 **Outils**        Netbeans, Eclipse, IntelliJ IDEA
+
 
 ### EXPERIENCE PROFESSIONNELLE
 
